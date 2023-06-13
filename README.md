@@ -20,7 +20,7 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
     ├── requirements.txt  # Indicação dos requisitos para rodar o sistema. 
     ├── notebooks         # Notebooks com o conteudo do tutorial
     ├── playground        # Arquivos relacionados ao hw da estação
-    ├── projetos 
+    ├── projects 
     │   ├── django-todo      # Projeto de exemplo usando Django
     │   ├── pygame-flapbird  # Projeto de exemplo usando Pygame   
     │   ├── pyqt-notepad     # Projeto de exemplo usando pyQT    
