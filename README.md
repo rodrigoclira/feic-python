@@ -20,9 +20,10 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
     ├── requirements.txt  # Indicação dos requisitos para rodar o sistema. 
     ├── notebooks         # Notebooks com o conteudo do tutorial
     ├── playground        # Arquivos relacionados ao hw da estação
-    ├── projetos 
-    │   ├── django-todo      # Pasta principal com urls e settings 
-    │   ├── pygame-flapbird  #     
+    ├── projects 
+    │   ├── django-todo      # Projeto de exemplo usando Django
+    │   ├── pygame-flapbird  # Projeto de exemplo usando Pygame   
+    │   ├── pyqt-notepad     # Projeto de exemplo usando pyQT    
     └── ...
 
 
@@ -30,6 +31,11 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
 
 [Introdução à Programação com Python](https://python.nilo.pro.br/)
 
-## Contato
+Contatos
 
-rodrigo.lira@paulista.ifpe.edu.br
+* [Rodrigo Lira](https://github.com/rodrigoclira) (rodrigo.lira@paulista.ifpe.edu.br)
+* Eduardo Menezes
+* Odin
+* Kamila Rocha
+* Celso 
+* Rogério
