@@ -16,7 +16,6 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
 
 ## Estrutura do Repositório
 
-
     .
     ├── requirements.txt  # Indicação dos requisitos para rodar o sistema. 
     ├── notebooks         # Notebooks com o conteudo do tutorial
@@ -25,6 +24,11 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
     │   ├── django-todo      # Pasta principal com urls e settings 
     │   ├── pygame-flapbird  #     
     └── ...
+
+
+## Referência
+
+[Introdução à Programação com Python](https://python.nilo.pro.br/)
 
 ## Contato
 
