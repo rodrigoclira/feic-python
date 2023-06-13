@@ -1,6 +1,9 @@
 # Introdução a Programação com Python: Uma visão geral sobre a linguagem
 
-Material do tutorial ministrado no ["IV Festival de Empreendedorismo e Ideias Criativas"](https://www.even3.com.br/iv-festival-de-empreendedorismo-e-ideias-criativas-343788/) do IFPE Campus Paulista.
+
+![femic](https://github.com/rodrigoclira/femic-python/assets/276077/79d2078b-0db5-40f7-b47b-9afbd7bfa275)
+
+Material do tutorial "Introdução a Programação com Python: Uma visão geral sobre a linguagem" ministrado no ["IV Festival de Empreendedorismo e Ideias Criativas"](https://www.even3.com.br/iv-festival-de-empreendedorismo-e-ideias-criativas-343788/) do IFPE Campus Paulista.
 
 ## Conteúdo 
 
@@ -22,3 +25,7 @@ Material do tutorial ministrado no ["IV Festival de Empreendedorismo e Ideias Cr
     │   ├── django-todo      # Pasta principal com urls e settings 
     │   ├── pygame-flapbird  #     
     └── ...
+
+## Contato
+
+rodrigo.lira@paulista.ifpe.edu.br
