@@ -24,6 +24,10 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
     │   ├── django-todo      # Projeto de exemplo usando Django
     │   ├── pygame-flapbird  # Projeto de exemplo usando Pygame   
     │   ├── pyqt-notepad     # Projeto de exemplo usando pyQT    
+    │   ├── pygame-cat       # Projeto de exemplo usando Pygame    
+    │   ├── sklearn-iris     # Projeto de exemplo usando Sklearn (Machine Learning)    
+    │   ├── flask-examples   # Projeto de exemplo usando flask    
+    │   ├── matplotlib-examples   # Projetos de exemplo usando matplotlib    
     └── ...
 
 
