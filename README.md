@@ -38,8 +38,6 @@ Material do tutorial "Introdução a Programação com Python: Uma visão geral 
 Contatos
 
 * [Rodrigo Lira](https://github.com/rodrigoclira) (rodrigo.lira@paulista.ifpe.edu.br)
-* Eduardo Menezes
-* Odin
-* Kamila Rocha
-* Celso 
-* Rogério
+* Eduardo Menezes (ejmv@discente.ifpe.edu.br)
+* Odin Oliveira (omso@discente.ifpe.edu.br)
+* Celso Guilherme (cgcs@discente.ifpe.edu.br)
